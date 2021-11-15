@@ -1,5 +1,7 @@
 BEP20-Honeypot-Token
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contact me via Telegram : https://t.me/wah2d @wah2d
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 BEP-20 Honeypot smart contract Sourcecode for use on the Binance Smart Chain Network.
 
 BEP20-Honeypot-Token is a Token that doesn't allow Buyers to Sell or Swap it (TRANSFER_FROM_FAILED).
