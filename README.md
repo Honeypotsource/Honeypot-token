@@ -15,7 +15,7 @@ Initiating a Swap
 <img src="https://user-images.githubusercontent.com/91577798/136621400-7c3dc3e0-79f5-49ac-a635-00be5376c370.png" alt="image" style="max-width: 100%;">
 
 Honeypot Token Checker
-tempsnip
+<img src="https://user-images.githubusercontent.com/91577798/136621880-d82d7657-8624-4428-973a-ab9fc17b5921.png" alt="tempsnip" style="max-width: 100%;">
 
 Contact
 If you are interested to purchase my source code or want me to help you building your own honeypot token !
